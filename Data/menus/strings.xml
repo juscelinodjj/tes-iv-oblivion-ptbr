@@ -1,0 +1,273 @@
+<!-- strings.xml -->
+<rect name="Strings">
+	<_exit> Sair </_exit>
+	<_remove> Remover </_remove>
+	<_done> Feito </_done>
+	<_continue> Continuar </_continue>
+	<_new> Novo </_new>
+	<_load> Carregar </_load>
+	<_options> Opções </_options>
+	<_credits> Créditos </_credits>
+	<_destruction> Destruição </_destruction>
+	<_prev> Anterior </_prev>
+	<_take> Pegar </_take>
+	<_next> Próximo </_next>
+	<_breath> Oxigênio </_breath>
+	<_weapons> Armas </_weapons>
+	<_apparel> Vestuário </_apparel>
+	<_alchemy> Alquimia </_alchemy>
+	<_misc> Outros </_misc>
+	<_strength> Força </_strength>
+	<_intelligence> Inteligência </_intelligence>
+	<_willpower> Força de Vontade </_willpower>
+	<_agility> Agilidade </_agility>
+	<_speed> Velocidade </_speed>
+	<_endurance> Resistência </_endurance>
+	<_personality> Personalidade </_personality>
+	<_luck> Sorte </_luck>
+	<_loading> Carregando... </_loading>
+	<_done> Feito </_done>
+	<_close> Fechar </_close>
+	<_locklevel> Nível da Trava: </_locklevel>
+	<_picksleft> Gazuas Restantes: </_picksleft>
+	<_playerskill> Perícia: </_playerskill>
+	<_timestrained> Treinamentos: </_timestrained>
+	<_text> Texto </_text>
+	<_haggle> Negociar </_haggle>
+	<_disposition> Disposição: </_disposition>
+	<_mercantile> Perícia Mercantil: </_mercantile>
+	<_easy> Fácil </_easy>
+	<_hard> Difícil </_hard>
+	<_buyingitemsat> Comprar Itens por </_buyingitemsat>
+	<_sellingitemsat> Vender Itens por </_sellingitemsat>
+	<_ok> Ok </_ok>
+	<_cancel> Cancelar </_cancel>
+	<_acrobatic> Acrobacia </_acrobatic>
+	<_howmany> Quantos? </_howmany>
+	<_hammers> Martelos </_hammers>
+	<_hour> hora </_hour>
+	<_s> s </_s>
+	<_rest> Dormir </_rest>
+	<_dayoftheweek> DayOfTheWeek (XX:XX PM) </_dayoftheweek>
+	<_monthdayyear> Month Day, Year </_monthdayyear>
+	<_trainerskill> Perícia do Treinador: </_trainerskill>
+	<_skilllevel> Nível da Perícia: </_skilllevel>
+	<_cost> Custo: </_cost>
+	<_create> Criar </_create>
+	<_warning> Aviso </_warning>
+	<_topic> Tópico </_topic>
+	<_train> Treinar </_train>
+	<_ingredientone> IngredientOne </_ingredientone>
+	<_ingredienttwo> IngredientTwo </_ingredienttwo>
+	<_ingredientthree> IngredientThree </_ingredientthree>
+	<_ingredientfour> IngredientFour </_ingredientfour>
+	<_havenogreeting> NÃO TENHO SAUDAÇÃO </_havenogreeting>
+	<_applicableeffects> Efeitos Aplicáveis </_applicableeffects>
+	<_addedeffects> Efeitos Adicionados </_addedeffects>
+	<_effectname> Nome do Efeito </_effectname>
+	
+	<_magnitude> Magnitude: </_magnitude>
+	<_area> Área: </_area>
+	<_duration> Duração: </_duration>
+	<_range> Alcance: </_range>
+	<_delete> Remover </_delete>
+	<_maxpersuasion> Aumento Potencial: </_maxpersuasion> 
+	<_demand> Ordenar </_demand>
+	<_bribe> Subornar </_bribe>
+	<_rotate> Girar </_rotate>
+	<_knowneffects> Efeitos Conhecidos </_knowneffects>
+	<_spellnameenter> Nome do Feitiço </_spellnameenter>
+	<_dummynotice> Aviso de teste </_dummynotice>
+	<_greaterpower> Poder Superior </_greaterpower>
+	<_lesserpower> Poder Inferior </_lesserpower>
+	<_spells> Feitiços </_spells>
+	<_scrolls> Pergaminhos </_scrolls>
+	<_back> Voltar </_back>
+	<_activeeffects> Efeitos Ativos </_activeeffects>
+	<_nomap> NENHUM MAPA DEFINIDO NESSE LOCAL </_nomap>
+	<_quickkey> Atalho X </_quickkey> 
+	<_testing> Testando </_testing>
+	<_race> Raça </_race>
+	<_birthsign> Signo </_birthsign>
+	<_class> Classe </_class>
+	<_level> Nível </_level>
+	<_health> Saúde </_health>
+	<_magicka> Magicka </_magicka>
+	<_fatigue> Fôlego </_fatigue>
+	<_minorskills> Perícias Inferiores </_minorskills>
+	<_levelprogress> Progresso do Nível </_levelprogress>
+	<_nextrank> Próximo Rank: </_nextrank>
+	<_button> Botão </_button>
+	<_mastervolume> Volume Principal: </_mastervolume>
+	<_voicevolume> Volume das Vozes: </_voicevolume>
+	<_effectvolume> Volume dos Efeitos: </_effectvolume>
+	<_footstepvolume> Volume dos Passos: </_footstepvolume>
+	<_musicvolume> Volume da Música: </_musicvolume>
+	<_device> Dispositivo </_device>
+	<_mousesensitivity> Sensitividade do Mouse: </_mousesensitivity>
+	<_joysticksensitivity> Sensitividade do Joystick: </_joysticksensitivity>
+	<_verticalsensitivity> Sensitividade Vertical: </_verticalsensitivity>
+	<_horizontalsensitivity> Sensitividade Horizontal: </_horizontalsensitivity>
+	<_inverty> Inverter Eixo Y: </_inverty>
+	<_onoff> Lig./Desl. </_onoff>
+	<_swapstickcontrols> Trocar Controles Stick </_swapstickcontrols>
+	<_leftstick> Stick Esquerdo: </_leftstick>
+	<_rightstick> Stick Direito: </_rightstick>
+	<_difficulty> Dificuldade: </_difficulty>
+	<_generalsubtitles> Legendas Gerais: </_generalsubtitles>
+	<_dialoguesubtitles> Legendas dos Diálogos: </_dialoguesubtitles>
+	<_crosshair> Mira: </_crosshair>
+	<_saveonrest> Salvar ao Dormir: </_saveonrest>
+	<_saveonwait> Salvar ao Descansar: </_saveonwait>
+	<_saveontravel> Salvar ao Viajar: </_saveontravel>
+	<_return> Voltar </_return>
+	<_save> Salvar </_save>
+	<_load> Carregar </_load>
+	<_gameplay> Jogabilidade </_gameplay>
+	<_video> Vídeo </_video>
+	<_audio> Áudio </_audio>
+	<_controls> Controles </_controls>
+	<_quit> Sair </_quit>
+	<_resolutionlist> Lista de Resolução </_resolutionlist>
+	<_resolution> Resolução: </_resolution>
+	<_change> Trocar </_change>
+	<_distantlod> Terreno Distante: </_distantlod>
+	<_self_shadows> Sombras Próprias: </_self_shadows>
+	<_grass_shadows> Sombras da Grama: </_grass_shadows>
+	<_canopyshadows> Sombras das Árvores: </_canopyshadows>
+	<_texturesize> Tamanho da Textura: </_texturesize>
+	<_treelod> Det. das Árvores: </_treelod>
+	<_actorlod> Det. dos Atores: </_actorlod>
+	<_itemlod> Det. dos Itens: </_itemlod>
+	<_objectlod> Det. dos Objetos: </_objectlod>
+	<_attributedescription> Descrição do Atributo </_attributedescription>
+	<_theapprentice> O Aprendiz </_theapprentice>
+	<_theatronach> O Atronach </_theatronach>
+	<_thelady> A Dama </_thelady>
+	<_thelord> O Senhor </_thelord>
+	<_thelover> O Amante </_thelover>
+	<_themage> O Mago </_themage>
+	<_theritual> O Ritual </_theritual>
+	<_theserpent> A Serpente </_theserpent>
+	<_theshadow> A Sombra </_theshadow>
+	<_thesteed> O Corcel </_thesteed>
+	<_thethief> O Ladrão </_thethief>
+	<_thetower> A Torre </_thetower>
+	<_thewarrior> O Guerreiro </_thewarrior>
+	<_birthsigndescription> Descrição do Signo </_birthsigndescription>
+	<_specialization> Especialização </_specialization>
+	<_combat> Combate </_combat>
+	<_favored> Favorece </_favored>
+	<_name> Nome: </_name>
+	<_attributes> Atributos </_attributes>
+	<_majorskills> Perícias Superiores </_majorskills>
+	<_selectclass> Selecione uma classe ou crie uma personalizada. </_selectclass>
+	<_hair> Cabelo: </_hair>
+	<_bald> Careca: </_bald>
+	<_eyes> Olhos: </_eyes>
+	<_age> Idade: </_age>
+	<_complexion> Aspecto: </_complexion>
+	<_gender> Sexo: </_gender>
+	<_style> Estilo: </_style>
+	<_red> Vermelho: </_red>
+	<_green> Verde: </_green>
+	<_blue> Azul: </_blue>
+	<_length> Comprimento: </_length>
+	<_random> Aleatório </_random>
+	<_undo> Desfazer </_undo>
+	<_reset> Recompor </_reset>
+	<_armorer> Armeiro </_armorer>
+	<_magic> Mágico </_magic>
+	<_stealth> Furtivo </_stealth>
+	<_specializationdescription> Descrição da Especialização </_specializationdescription>
+	<_threeattributes> Escolha 3 Atributos para Aumentar </_threeattributes>
+	<_map> Mapa </_map>
+	<_questadded> "Missão Adicionada" </_questadded>
+	<_questtitlename> Nome/Título da Missão </_questtitlename>
+	<_questdate> Data da Missão </_questdate>
+	<_questtextparagraph> Parágrafo de Texto da Missão </_questtextparagraph>
+	<_start> Iniciar </_start>
+	<_missing> Texto Faltando </_missing>
+	<_ingredients> Ingredientes </_ingredients>
+	<_effects> Efeitos </_effects>
+	<_septimsfor> moedas por </_septimsfor>
+	<_dispositionbonus> bônus de disposição. </_dispositionbonus>
+	<_spellname> Nome do Feitiço (Clique para Trocar) </_spellname>
+	<_enchanteditem> Item Encantado (Clique para Trocar) </_enchanteditem>
+	<_additem> Adicionar Item </_additem>
+	<_addsoulgem> Adicionar Pedra de Alma </_addsoulgem>
+	<_sigilstoneeffects> Efeitos da Pedra Marcada: </_sigilstoneeffects>
+	<_effectsapplied> Efeitos a serem aplicados: </_effectsapplied>
+	<_charge> Carga: </_charge>
+	<_cannotpersuade> Não é possível persuadir </_cannotpersuade>
+	<_anyfurther> mais. </_anyfurther>
+	<_nameenchantment> Nome do Item Encantado </_nameenchantment>
+	<_attribute> Atributo: </_attribute>
+	<_skill> Perícia: </_skill>
+	<_move> Mover </_move>
+	<_look> Olhar </_look>
+	<_equip> Equipar </_equip>				<!-- Inventory Menu Xbox Hint Text -->
+	<_unequip> Desequipar </_unequip>			<!-- Inventory Menu Xbox Hint Text -->
+	<_drop> Soltar </_drop>					<!-- Inventory Menu Xbox Hint Text -->
+	<_quickkey> Atalho </_quickkey>		<!-- Inventory Menu Xbox Hint Text -->
+	<_defaults> Padrão </_defaults>
+	<_none> Nenhum </_none>
+	<_actionmapping> Mapeamento de Ação: </_actionmapping>
+	<_grab> Pegar </_grab>
+	<_takeall> Tudo </_takeall>
+	<_history> História </_history>
+	<_activate> Ativar </_activate>
+	<_setmarker> Defin. Marcad. </_setmarker>
+	<_travel> Viajar </_travel>
+	<_customclass> Especializada </_customclass>
+	<_savemenuinstructions> Escolha Salvar Novo Jogo ou sobreescreva. Shift-Click para deletar. </_savemenuinstructions>
+	<_loadmenuinstructions> Escolha um jogo salvo para carregar. Shift-Click para deletar. </_loadmenuinstructions>
+	<_continue> Continuar </_continue>
+	<_addingredient> Adicionar Ingrediente </_addingredient>
+	<_pressstart> Presione Start </_pressstart>
+	<_soul> Alma: </_soul>
+	<_apparatuses> Aparatos </_apparatuses>
+	<_potions> Poções </_potions>
+	<_books> Livros </_books>
+	<_keys> Chaves </_keys>
+	<_stones> Pedras </_stones>
+	<_paused> Pausado </_paused>
+	<_repairall> Tudo </_repairall>
+	<_rumble> Vibração: </_rumble>
+	<_restquestion> Quanto tempo você deseja dormir? </_restquestion>
+	<_waitquestion> Quanto tempo você deseja descansar? </_waitquestion>
+	<_downloaded_content> Conteúdo Baixado: </_downloaded_content>
+	<_view> Olhar </_view>
+	<_repair> Reparar </_repair>
+	<_skills> Perícias </_skills>
+	<_factions> Facções </_factions>
+	<_move_tab> Mover/Tab </_move_tab>
+	<_scroll_map> Mover Mapa </_scroll_map>
+	<_gamma> Brilho: </_gamma>
+	<_persuade> Persuadir </_persuade>
+	<_barter> Trocar </_barter>
+	<_buy_spell> Comprar Feitiço </_buy_spell>
+	<_repair> Reparar </_repair>
+	<_train> Treinar </_train>
+	<_recharge> Recarregar </_recharge>
+	<_grass> Distância da Grama: </_grass>
+	<_widescreen> (*) Indica widescreen </_widescreen>
+	<_constant_effect> Efeito Constante </_constant_effect>
+	<_viewdist> Distância de Visão: </_viewdist>
+	<_distbuild> Edifícios Distantes: </_distbuild>
+	<_disttrees> Árvores Distantes: </_disttrees>
+	<_intshad> Sombras Int.: </_intshad>
+	<_extshad> Sombras Ext.: </_extshad>
+	<_speclight> Distância Especular: </_speclight>
+	<_hdr> Iluminação HDR: </_hdr>
+	<_water_detail> Detalha da Água: </_water_detail>
+	<_water_reflections> Reflexos da Água: </_water_reflections>
+	<_water_displacement> Ondulações da Água: </_water_displacement>
+	<_window_reflections> Reflexos em Janela: </_window_reflections>
+	<_hair_detail> Detalhes do Cabelo: </_hair_detail>
+	<_blood> Manchas de Sangue: </_blood>
+	<_antialiasing> Anti-aliasing: </_antialiasing>
+	<_bloom> Iluminação Bloom: </_bloom>
+	<_shadowfiltering> Filtragem de Sombra: </_shadowfiltering>
+</rect>
+	

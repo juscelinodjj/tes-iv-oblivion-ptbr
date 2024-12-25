@@ -1,0 +1,8 @@
+DO NOT INCLUDE THIS FILE IN FINAL RELEASE VERSIONS
+
+
+-=- WARNING -=-
+
+If you change any of these files, send the changes to cinnanen@bethsoft.com
+to be incorporated in the master versions. The files on the network can and
+will be over-written.
